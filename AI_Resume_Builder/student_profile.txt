@@ -1,0 +1,37 @@
+Name: Vaishnavi
+Email: vaishnavi@example.com | Phone: +91-90000-00000
+Location: Jaipur, Rajasthan
+GitHub: github.com/vaishnavi-example
+
+Education
+B.Tech in Computer Science & Engineering (2023 - 2027)
+Swami Keshvanand Institute of Technology, Management & Gramothan, Jaipur
+
+Technical Skills
+- Languages: Python, SQL, Java, C++, HTML5, CSS3, JavaScript
+- Data: Pandas, NumPy, Matplotlib, Exploratory Data Analysis (EDA)
+- Databases & Tools: PostgreSQL, MySQL, Git, GitHub, VS Code
+
+Projects
+1. Spotify Music Data Analysis
+   - Analysed a Spotify tracks dataset with 100,000+ rows using Pandas and NumPy.
+   - Cleaned missing and duplicate values and performed EDA on danceability,
+     energy, tempo and popularity.
+   - Created charts with Matplotlib to show trends across genres and years.
+
+2. Student Database Management System
+   - Designed a MySQL database with tables for students, courses and marks.
+   - Wrote SQL queries with joins and aggregations to generate reports.
+
+3. Personal Portfolio Website
+   - Built a responsive portfolio using HTML5, CSS3 and JavaScript.
+   - Hosted the source code on GitHub.
+
+Training
+Summer Training & Internship Program in Generative AI & Prompt Engineering,
+E&ICT Academy, IIT Roorkee (5 June - 20 July 2026).
+- Built multi-agent workflows with CrewAI and Gemini.
+
+Achievements
+- Solved 150+ coding problems on online coding platforms.
+- Member of the college coding club.

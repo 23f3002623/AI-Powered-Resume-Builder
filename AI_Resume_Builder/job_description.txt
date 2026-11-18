@@ -1,0 +1,32 @@
+Job Title: Data Science & ML Engineering Intern
+Location: Remote / Hybrid
+Duration: 6 months
+
+About the Role
+We are looking for a motivated Data Science & ML Engineering Intern to help our
+analytics team turn raw data into useful insights and working machine learning
+models.
+
+Responsibilities
+- Clean, transform and analyse large datasets using Python, Pandas and NumPy.
+- Perform exploratory data analysis (EDA) and create clear visualizations with
+  Matplotlib and Seaborn.
+- Build, train and evaluate predictive models using Scikit-Learn.
+- Create interactive dashboards to share results with stakeholders.
+- Write SQL queries to extract data from PostgreSQL / MySQL databases.
+- Use Git and GitHub for version control and collaborate with the team.
+- Document experiments and present findings in a clear way.
+
+Requirements
+- Pursuing a B.Tech / B.E. / M.Sc. in Computer Science, Data Science or a
+  related field.
+- Strong knowledge of Python, Pandas, NumPy and SQL.
+- Hands-on experience with Matplotlib, Seaborn and Scikit-Learn.
+- Understanding of predictive modeling, regression and classification.
+- Experience building interactive dashboards (Streamlit, Power BI or Tableau).
+- Good communication and problem-solving skills.
+
+Good to Have
+- Knowledge of Java or C++.
+- Basic web knowledge (HTML, CSS, JavaScript).
+- Personal or academic projects on real-world datasets.
